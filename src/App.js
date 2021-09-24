@@ -6,7 +6,7 @@ function App() {
     <div className="app-conitainer">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <div className='middle-text'>Future's coming.</div>
+        <div className='middle-text'><a href='https://twitter.com/defi_time'>Future's coming.</a></div>
         <div className="colorful-backgrounds bottom-section"></div>
       </header>
     </div>

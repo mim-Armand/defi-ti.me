@@ -48,7 +48,6 @@
 }
 .middle-text{
   background-color: black;
-  color: lightgray;
   position: fixed;
   top: 50%;
   width: 100%;
@@ -56,4 +55,11 @@
   text-align: left;
   padding: 15px;
   font-weight: 400;
+}
+.middle-text a{
+  color: lightgray;
+  text-decoration: none;
+  font-weight: 600;
+  background-color: #28282f;
+  padding: 15px 6px;
 }
